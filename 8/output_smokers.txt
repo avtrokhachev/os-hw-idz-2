@@ -1,0 +1,16 @@
+Smoker 0 went to sleep for 2 seconds
+0 smoker start smoking
+Smoker 0 went to sleep for 2 seconds
+2 smoker start smoking
+Smoker 2 went to sleep for 2 seconds
+0 smoker start smoking
+Smoker 0 went to sleep for 2 seconds
+0 smoker start smoking
+Smoker 0 went to sleep for 5 seconds
+2 smoker start smoking
+Smoker 2 went to sleep for 2 seconds
+0 smoker start smoking
+Smoker 0 went to sleep for 4 seconds
+1 smoker start smoking
+Smoker 1 went to sleep for 2 seconds
+1 smoker start smoking

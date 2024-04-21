@@ -1,0 +1,16 @@
+Worker put smoke_item id=0 on the table
+Worker went to sleep for 4 seconds
+Worker put smoke_item id=0 on the table
+Worker went to sleep for 4 seconds
+Worker put smoke_item id=2 on the table
+Worker went to sleep for 5 seconds
+Worker put smoke_item id=0 on the table
+Worker went to sleep for 5 seconds
+Worker put smoke_item id=0 on the table
+Worker went to sleep for 2 seconds
+Worker put smoke_item id=2 on the table
+Worker went to sleep for 3 seconds
+Worker put smoke_item id=0 on the table
+Worker went to sleep for 3 seconds
+Worker put smoke_item id=1 on the table
+Worker went to sleep for 5 seconds
